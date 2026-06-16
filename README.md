@@ -1,5 +1,5 @@
-# Schema, vecka 22
-###### Backend med Node.js, vecka 3 av 5
+# Schema, vecka 37
+###### UX/UI grunder, vecka 2 av 6
 
 ## Introduktion
 
