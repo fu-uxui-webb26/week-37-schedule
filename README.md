@@ -3,8 +3,11 @@
 
 ## Introduktion
 
+Nu när vi förstått våra användare är det dags att börja utforska lösningar. Den här veckan arbetar vi med Ideate och tar de första stegen in i Prototype.
 
+Vi tittar på olika metoder för idégenerering, lär oss hur AI kan användas som stöd i designprocessen och diskuterar när AI är hjälpsamt – och när det faktiskt riskerar att leda oss fel.
 
+Dessutom introduceras Figma, där vi börjar omsätta våra idéer till wireframes, användarflöden och de första prototyperna.
 
 ## Mål för veckan:
 
