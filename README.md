@@ -11,7 +11,12 @@ Dessutom introduceras Figma, där vi börjar omsätta våra idéer till wirefram
 
 ## Mål för veckan:
 
-1. 
+1. Använda metoder för strukturerad idégenerering.
+2. Formulera How Might We-frågor.
+3. Förstå hur AI kan användas i UX-processen.
+4. Kritiskt granska AI-genererade förslag.
+5. Skapa wireframes i Figma.
+6. Skapa användarflöden för en digital tjänst.
 
 
 ## Resurser
